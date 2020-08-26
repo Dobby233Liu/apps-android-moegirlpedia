@@ -1,12 +1,13 @@
-### Wikipedia Android app
+# Unoffical Moegirlpedia Android app
 
-This repository contains the source code for the official [Wikipedia Android app](https://play.google.com/store/apps/details?id=org.wikipedia).
+This repository contains the source code for the This Is Repeated For Three Times.
 
-### Documentation
+~ down there is wikipedia app stuff~
+## Documentation
 
 All documentation is kept on [our wiki](https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/Android/App_hacking). Check it out!
 
-### Issues
+## Issues
 
 Kindly file issues in [our bug tracker][1]
 
